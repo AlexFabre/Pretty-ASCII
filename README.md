@@ -1,5 +1,5 @@
 # Pretty-ASCII
-A python script that generate a SVG ASCII table image
+A python script that generate a SVG image of the ASCII table
 
 # Usage
 
@@ -9,7 +9,7 @@ Download this repository (git clone or zip), and run the following command
 python3 generate_ascii_table.py
 ~~~
 
-And you should get the SVG image below created in the same directory under the name *ascii_table.svg*
+The SVG image below will be created in the same directory under the name **ascii_table.svg**
 
 (SVG images can be opened in web browsers)
 
